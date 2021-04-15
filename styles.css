@@ -26,6 +26,28 @@ p {
  font-family: Helvetica;
 }
 
+  
+  /********** Base styles **********/
+* {
+  box-sizing: border-box;
+  height: 150px;
+
+}
+h1 {
+  margin-bottom: 15px;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+
+
+/* Simple Responsive Framework. */
+.row {
+  width: 100%;
+
+}
+
+
  </style>
 </head>
 </html>
