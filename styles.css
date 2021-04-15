@@ -17,15 +17,6 @@ p {
  
 }
 
-#p2 {
-  background-color: #90E0EF;
-  float: right;
- border: solid #023E8A;
- font-size: 1.5em;
- height: 1.5em;
- font-family: Helvetica;
-}
-
   
   /********** Base styles **********/
 * {
@@ -36,10 +27,15 @@ p {
 h1 {
   margin-bottom: 15px;
   font-family: Helvetica;
+  font-size: 1.5em;
   text-align: center;
 }
 
-
+h2{
+  margin-bottom: 12px;
+  font-family: Helvetica;
+  text-align: center;
+}
 
 /* Simple Responsive Framework. */
 .row {
