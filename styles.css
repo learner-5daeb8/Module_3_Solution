@@ -5,31 +5,18 @@
 <title>Stylesheet</title>
 <style>
     div#container {}
-p {
-
-
 }
 #p1 {
-  background-color: #CAF0F8;
-  border: solid #03045E;
-  font-family: Helvetica;
-
- 
-}
-
+  background-color: #F6CEF5;
+  border: solid #8A0868;
+ }
   
   /********** Base styles **********/
 * {
   box-sizing: border-box;
-  height: 150px;
+  height: 250px;
+}
 
-}
-h1 {
-  margin-bottom: 15px;
-  font-family: Helvetica;
-  font-size: 1.5em;
-  text-align: center;
-}
 
 
 /* Simple Responsive Framework. */
